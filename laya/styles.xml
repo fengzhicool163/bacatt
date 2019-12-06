@@ -1,0 +1,14 @@
+<res>
+   <item name="lobbyRes/lobbyBG" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/lobbyRoomList/btn_com_fangjian_biaoge_hx524.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/lobbyPanel/img_touxaingdi.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/lobbyPanel/img_com_fangjian_baijiale_juese.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/anim" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/common/img_com_tanchuangdi2(1030).png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=20,27,20,27@@!@@" picType="0" scale="0"/>
+   <item name="lobbyRes/gameRule/menu_bar.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/gameRule/img_baijiale_guize_wanfa.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/gameRule/img_baijiale_guize_peilv.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/common/img_com_tanchuangtou1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/common/img_com_tanchuangtou2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="lobbyRes/common/img_com_tanchuangdi1(752).png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,28,10,28" picType="0" scale="0"/>
+</res>
